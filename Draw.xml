@@ -18,6 +18,9 @@
             <next>
               <block type="oled_color" id="50">
                 <field name="OBJECT">BLACK</field>
+                <next>
+                  <block type="oled_cleardisplay" id="67"></block>
+                </next>
               </block>
             </next>
           </block>
